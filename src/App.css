@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.footer__div {
+  text-decoration: underline;
+}
+.boardContainer {
+  margin: 0 auto;
+  width: 50%;
+}
